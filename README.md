@@ -11,7 +11,7 @@ HVPlot is the primary tool for rendering data visualizations.
 
 ## Overview of the App
 
-The goal is to create a Jupyter notebook that contains your data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Text and comments to document my findings, and answered the question prompts in the instructions, plot the results so that we can visually show illustrate the predictions.
+First, the app seeks to analyze Google search data and determine whether there is a pattern linking this data to corporate financial events. Next, hourly search data is grouped and considered for whether there are specific times of day where search data peaks. Along with search data, the app reads in stock price data and compares it with time series search data. Lastly, the app analyzes and forecasts patterns in the hourly search data. Plots are rendered throughout the app to visualize trends.
 
 ## Usage
 
